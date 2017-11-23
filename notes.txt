@@ -1,0 +1,18 @@
+Did someone say stop using the word cast and use plo instead?
+
+plo plo plo! cast cast cast! make make make! build and scrabble and scratch.
+
+
+So I'm in a fey mood, and I'm going to stay up til I finish my close thorsday night, tomorrow night, so probably I'll be a suffering zombie by then, but we'll see.
+
+Anyway, I've decided what to do. I'm going to touch bluetooth this night. I'm going to transmit a signal that my phone is going to pick up as text. I'm going to solder some pins, and I'm going to get asetniop keyboards modularized so they plug into the teensy, or the esp32-thing, and act bluetooth like. Later I'd like to have one of them on wifi, talking to the esp32 which in turn talks to the pc over bluetooth. But that last part won't happen tonight. I'll be happy if I touch bluetooth tonight. There are so many fun things to use bluetooth for, and the first step is to use it for anything.
+
+bluetooth ho!
+
+Steps:
+ - get a toolchain and blink a light.
+ - couple on bluetooth and send any keypresses.
+ - teather some keyboard bit's on (solder then code)
+ - yay!
+
+
